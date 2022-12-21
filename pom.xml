@@ -37,7 +37,7 @@
 		<repository>
 			<id>public</id>
 			<name>nexus</name>
-			<url>http://localhost:8081/repository/maven-proxy-test/</url>
+			<url>http://192.168.70.130:8081/repository/maven-proxy-test/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
